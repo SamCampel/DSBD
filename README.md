@@ -18,3 +18,9 @@ Ferramentas usadas:
     DER (Diagrama Entidade-Relacionamento) para visualização clara da estrutura.
 
 Um projeto essencial para entender a fundo a modelagem de dados e sua importância em sistemas reais!
+
+Autor
+
+Este layout foi desenvolvido por [Samuel](https://github.com/SamCampel/), para a apresentação em grupo de um trabalho acadêmico semestral, onde seria avaliado a construção do banco de dados relacional e a lógicas utilizada nos MERs.
+
+Se você tiver dúvidas, sugestões ou interesse em colaborar, sinta-se à vontade para entrar em contato!
